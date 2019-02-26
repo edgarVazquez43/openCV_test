@@ -22,7 +22,7 @@ int main(int argc, char** argv )
   namedWindow("Display Image", WINDOW_AUTOSIZE );
   imshow("Display Image", image);
 
+  
   waitKey(0);
-
   return 0;
 }
